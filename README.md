@@ -61,7 +61,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 [**Gazebo**](http://gazebosim.org/)
 Robot Simulator
 
-[**OSEF Framework**](https://github.com/emerladcompass/OSEF-Framework)
+[**OSEF**](https://github.com/emerladcompass/OSEF-Framework)
 Aviation safety supervision using limit cycle dynamics.
 
 [**ROS**](http://www.ros.org/)
